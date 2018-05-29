@@ -19,7 +19,7 @@ function makeStory() {
     var plural_profession = document.getElementById('plural_profession').value;
 
     // Set title of story.
-    var title = "Where are your fingers";
+    var title = " Where are your fingers " ;
 
 
     // Build story.
